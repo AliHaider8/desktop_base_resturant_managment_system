@@ -1,0 +1,344 @@
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe.config
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csprojAssemblyReference.cache
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Form1.resources
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.Resources.resources
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.GenerateResource.cache
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CopyComplete
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DashBoard.resources
+C:\Users\Sardar Waqas Dogar\Desktop\Royal Kitchen Managment System\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.uc_customer.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe.config
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DashBoard.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Form1.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.Resources.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.GenerateResource.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CopyComplete
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.CustomerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 2\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csprojAssemblyReference.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe.config
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DashBoard.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Form1.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.CustomerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.Resources.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.GenerateResource.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CopyComplete
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerContactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerBrandForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.IngrediantsUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Distributerpayment.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 3\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csprojAssemblyReference.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe.config
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csprojAssemblyReference.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DashBoard.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerBrandForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerContactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Distributerpayment.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Form1.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.IngrediantsUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.CustomerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.Resources.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseViewForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.GenerateResource.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CopyComplete
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 4\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe.config
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DashBoard.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerBrandForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerContactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Distributerpayment.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Form1.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.IngrediantsUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.CustomerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.Resources.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseViewForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.StockUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.GenerateResource.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CopyComplete
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\bin\Debug\EntityFramework.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\bin\Debug\EntityFramework.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ManagerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeePersonalForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodRecipeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csprojAssemblyReference.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 5\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferFoodsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe.config
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\bin\Debug\EntityFramework.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\bin\Debug\EntityFramework.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csprojAssemblyReference.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DashBoard.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerBrandForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerContactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Distributerpayment.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodRecipeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Form1.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.IngrediantsUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ManagerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferFoodsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.CustomerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.Resources.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseViewForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.StockUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.GenerateResource.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CopyComplete
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ExtrasUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeecontactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpQualificationForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpSkillsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpExperianceForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 6\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SaleUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe.config
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\bin\Debug\EntityFramework.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\bin\Debug\EntityFramework.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DashBoard.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerBrandForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerContactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Distributerpayment.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpExperianceForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeecontactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpQualificationForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpSkillsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ExtrasUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodRecipeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Form1.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.IngrediantsUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ManagerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferFoodsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.CustomerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.Resources.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseViewForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SaleUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.StockUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.GenerateResource.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CopyComplete
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 7\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe.config
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\bin\Debug\EntityFramework.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\bin\Debug\EntityFramework.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csprojAssemblyReference.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DashBoard.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerBrandForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerContactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Distributerpayment.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpExperianceForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeecontactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpQualificationForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpSkillsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ExtrasUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodRecipeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Form1.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.IngrediantsUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ManagerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferFoodsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.CustomerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.Resources.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseViewForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SalePaymentForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SaleUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.StockUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.GenerateResource.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CopyComplete
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 8\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe.config
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\bin\Debug\EntityFramework.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\bin\Debug\EntityFramework.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csprojAssemblyReference.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DashBoard.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerBrandForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerContactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Distributerpayment.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpExperianceForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeecontactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpQualificationForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpSkillsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ExtrasUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodRecipeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Form1.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.IngrediantsUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ManagerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferFoodsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.CustomerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.Resources.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseViewForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SalePaymentForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SaleUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.StockUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.GenerateResource.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CopyComplete
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 9\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SaleViewForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe.config
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\bin\Debug\EntityFramework.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\bin\Debug\EntityFramework.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csprojAssemblyReference.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DashBoard.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerBrandForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerContactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Distributerpayment.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpExperianceForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeecontactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpQualificationForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpSkillsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ExtrasUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodRecipeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Form1.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.IngrediantsUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.LoadingForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ManagerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferFoodsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.CustomerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.Resources.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseViewForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SalePaymentForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SaleUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SaleViewForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.StockUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.GenerateResource.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CopyComplete
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe.config
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\bin\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\bin\Debug\EntityFramework.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\bin\Debug\EntityFramework.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csprojAssemblyReference.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DashBoard.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerBrandForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerContactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Distributerpayment.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.DistributerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpExperianceForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeecontactForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpQualificationForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmpSkillsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ExtrasUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodRecipeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.FoodUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Form1.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.IngrediantsUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.LoadingForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.ManagerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferFoodsForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.OfferUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.CustomerUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.Properties.Resources.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.PurchaseViewForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SalePaymentForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SaleUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.SaleViewForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.StockUC.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.EmployeeForm.resources
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.GenerateResource.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.csproj.CopyComplete
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.exe
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal Kitchen Managment System.pdb
+C:\Users\Sardar Waqas Dogar\Desktop\testing uc\Royal Kitchen Managment System 10 fully latest before minor settings\Royal Kitchen Managment System\obj\Debug\Royal_Kitchen_Managment_System.AboutForm.resources

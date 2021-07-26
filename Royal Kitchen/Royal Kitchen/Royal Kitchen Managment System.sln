@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Royal Kitchen Managment System", "Royal Kitchen Managment System\Royal Kitchen Managment System.csproj", "{4943B143-A8C6-444F-BFA5-8EBB2D9F2B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4943B143-A8C6-444F-BFA5-8EBB2D9F2B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4943B143-A8C6-444F-BFA5-8EBB2D9F2B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4943B143-A8C6-444F-BFA5-8EBB2D9F2B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4943B143-A8C6-444F-BFA5-8EBB2D9F2B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C126DCC4-E8BA-43E5-9B38-E976C62AA974}
+	EndGlobalSection
+EndGlobal

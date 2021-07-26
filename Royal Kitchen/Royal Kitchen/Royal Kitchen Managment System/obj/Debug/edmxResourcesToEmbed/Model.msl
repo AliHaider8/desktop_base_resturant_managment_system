@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RoyalKitchenModelStoreContainer" CdmEntityContainer="RoyalKitchenEntities">
+    <EntitySetMapping Name="CurrentStocks">
+      <EntityTypeMapping TypeName="RoyalKitchenModel.CurrentStock">
+        <MappingFragment StoreEntitySet="CurrentStock">
+          <ScalarProperty Name="CurrentStockID" ColumnName="CurrentStockID" />
+          <ScalarProperty Name="IngredientID" ColumnName="IngredientID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="EntryDate" ColumnName="EntryDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

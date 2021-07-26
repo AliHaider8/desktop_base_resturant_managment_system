@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4943B143-A8C6-444F-BFA5-8EBB2D9F2B2E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Royal_Kitchen_Managment_System</RootNamespace>
+    <AssemblyName>Royal Kitchen Managment System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>guna2PictureBox2.Image.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>D:\University\3rd smester data of waqas\DB\Data Base Project\Data Base Project\bin\Debug\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CurrentStock.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashBoard.Designer.cs">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DGVPrinter.cs" />
+    <Compile Include="DistributerBrandForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DistributerBrandForm.Designer.cs">
+      <DependentUpon>DistributerBrandForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DistributerContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DistributerContactForm.Designer.cs">
+      <DependentUpon>DistributerContactForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Distributerpayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Distributerpayment.Designer.cs">
+      <DependentUpon>Distributerpayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DistributerUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DistributerUC.Designer.cs">
+      <DependentUpon>DistributerUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpExperianceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpExperianceForm.Designer.cs">
+      <DependentUpon>EmpExperianceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeecontactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeecontactForm.Designer.cs">
+      <DependentUpon>EmployeecontactForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeUC.Designer.cs">
+      <DependentUpon>EmployeeUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpQualificationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpQualificationForm.Designer.cs">
+      <DependentUpon>EmpQualificationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpSkillsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpSkillsForm.Designer.cs">
+      <DependentUpon>EmpSkillsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExtrasUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExtrasUC.Designer.cs">
+      <DependentUpon>ExtrasUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FoodRecipeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FoodRecipeForm.Designer.cs">
+      <DependentUpon>FoodRecipeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FoodUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FoodUC.Designer.cs">
+      <DependentUpon>FoodUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngrediantsUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IngrediantsUC.Designer.cs">
+      <DependentUpon>IngrediantsUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingForm.Designer.cs">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManagerUC.Designer.cs">
+      <DependentUpon>ManagerUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="OfferFoodsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OfferFoodsForm.Designer.cs">
+      <DependentUpon>OfferFoodsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OfferUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OfferUC.Designer.cs">
+      <DependentUpon>OfferUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PurchaseUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PurchaseUC.Designer.cs">
+      <DependentUpon>PurchaseUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PurchaseViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchaseViewForm.Designer.cs">
+      <DependentUpon>PurchaseViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RoyalKitchenDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoyalKitchenDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RoyalKitchenDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoyalKitchenDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RoyalKitchenDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoyalKitchenDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RoyalKitchenDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoyalKitchenDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RoyalKitchenDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoyalKitchenDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RoyalKitchenDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoyalKitchenDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SalePaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalePaymentForm.Designer.cs">
+      <DependentUpon>SalePaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SaleUC.Designer.cs">
+      <DependentUpon>SaleUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleViewForm.Designer.cs">
+      <DependentUpon>SaleViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StockUC.Designer.cs">
+      <DependentUpon>StockUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForm.Designer.cs">
+      <DependentUpon>EmployeeForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard.resx">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DistributerBrandForm.resx">
+      <DependentUpon>DistributerBrandForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DistributerContactForm.resx">
+      <DependentUpon>DistributerContactForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Distributerpayment.resx">
+      <DependentUpon>Distributerpayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DistributerUC.resx">
+      <DependentUpon>DistributerUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpExperianceForm.resx">
+      <DependentUpon>EmpExperianceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeecontactForm.resx">
+      <DependentUpon>EmployeecontactForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeUC.resx">
+      <DependentUpon>EmployeeUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpQualificationForm.resx">
+      <DependentUpon>EmpQualificationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpSkillsForm.resx">
+      <DependentUpon>EmpSkillsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExtrasUC.resx">
+      <DependentUpon>ExtrasUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FoodRecipeForm.resx">
+      <DependentUpon>FoodRecipeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FoodUC.resx">
+      <DependentUpon>FoodUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngrediantsUC.resx">
+      <DependentUpon>IngrediantsUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingForm.resx">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerUC.resx">
+      <DependentUpon>ManagerUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OfferFoodsForm.resx">
+      <DependentUpon>OfferFoodsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OfferUC.resx">
+      <DependentUpon>OfferUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\CustomerUC.resx">
+      <DependentUpon>CustomerUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\CustomerUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Properties\CustomerUC.Designer.cs">
+      <DependentUpon>CustomerUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PurchaseUC.resx">
+      <DependentUpon>PurchaseUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurchaseViewForm.resx">
+      <DependentUpon>PurchaseViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalePaymentForm.resx">
+      <DependentUpon>SalePaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleUC.resx">
+      <DependentUpon>SaleUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleViewForm.resx">
+      <DependentUpon>SaleViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockUC.resx">
+      <DependentUpon>StockUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForm.resx">
+      <DependentUpon>EmployeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="Model.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model.edmx.diagram">
+      <DependentUpon>Model.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="RoyalKitchenDataSet.xsc">
+      <DependentUpon>RoyalKitchenDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="RoyalKitchenDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RoyalKitchenDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RoyalKitchenDataSet.xss">
+      <DependentUpon>RoyalKitchenDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="RoyalKitchenDataSet1.xsc">
+      <DependentUpon>RoyalKitchenDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="RoyalKitchenDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RoyalKitchenDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RoyalKitchenDataSet1.xss">
+      <DependentUpon>RoyalKitchenDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="RoyalKitchenDataSet2.xsc">
+      <DependentUpon>RoyalKitchenDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="RoyalKitchenDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RoyalKitchenDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RoyalKitchenDataSet2.xss">
+      <DependentUpon>RoyalKitchenDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="RoyalKitchenDataSet3.xsc">
+      <DependentUpon>RoyalKitchenDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="RoyalKitchenDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RoyalKitchenDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RoyalKitchenDataSet3.xss">
+      <DependentUpon>RoyalKitchenDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="RoyalKitchenDataSet4.xsc">
+      <DependentUpon>RoyalKitchenDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="RoyalKitchenDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RoyalKitchenDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RoyalKitchenDataSet4.xss">
+      <DependentUpon>RoyalKitchenDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="RoyalKitchenDataSet5.xsc">
+      <DependentUpon>RoyalKitchenDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="RoyalKitchenDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RoyalKitchenDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RoyalKitchenDataSet5.xss">
+      <DependentUpon>RoyalKitchenDataSet5.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pictureBox2.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="UserControls\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="guna2PictureBox2.Image.ico" />
+    <Content Include="Model.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Model.Context.cs</LastGenOutput>
+      <DependentUpon>Model.edmx</DependentUpon>
+    </Content>
+    <Content Include="Model.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model.edmx</DependentUpon>
+      <LastGenOutput>Model.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
